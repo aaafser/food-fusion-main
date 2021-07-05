@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+   
+}
+.top-banner{
+    display: flex;
+    background-image: url(image/Frame\ 1.jpg);
+}
+.half-part{
+    width: 30%;
+    margin: 40px;
+    font-size: 40px;
+    padding-left: 80px;
+}
+
+#half{
+    padding-left: 80px;
+}
+
+.orange{
+    color:red;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.middle-banner{
+    display: flex;
+      
+}
+#set-banner{
+    background-image: url(image/Frame\ 1.jpg);
+    
+    margin-left: 50px;
+}
+.half-two{
+  
+    width: 30%;
+    margin: 40px;
+    font-size: 50px;
+    padding-left: 90px;
+}
+.middle-middle{
+
+    background-color: aquamarine;
+    font-size: 50px;
+    text-align:center;
+    padding-right: 200px;
+}
+
+.last-part{
+    display: flex;
+}
+
+.last-portion{
+    
+    font-size: 40px;
+    box-shadow: 10px 10px 40px gray;
+    width: 25%;
+    margin:40px;
+    border-radius: 25px;
+    padding-left:30px;
+    
+   }
+
+  
+footer p{
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 50px;
+    text-align: center;
+}
